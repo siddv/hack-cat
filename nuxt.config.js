@@ -40,12 +40,12 @@ module.exports = {
       locales: [
         {
           code: 'en',
-          iso: 'en-GB',
+          iso: 'en',
           name: 'English'
         },
         {
           code: 'ca',
-          iso: 'ca-ES',
+          iso: 'ca',
           name: 'Català'
         }
       ],
